@@ -6,7 +6,7 @@
 
 3. Ejecutar el comando `npm run dev` para levantar el proyecto en modo de desarrollo, entrar a `localhost:3000` por defecto o verificar en la terminal el puerto y probar.
 
-4. **Paso opcional**
+4. **Paso recomendado (Para probar en un ambiente productivo)**
 
 5. Ejecutar el comando `npm run build` para compilar el proyecto.
 
